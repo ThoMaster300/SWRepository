@@ -16,6 +16,13 @@ namespace RepositoryTest
         {
             int i = 6;
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine();
+            Console.WriteLine();
+
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
