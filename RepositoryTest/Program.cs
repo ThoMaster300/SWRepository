@@ -14,7 +14,7 @@ namespace RepositoryTest
         [STAThread]
         static void Main()
         {
-            int i = 6;
+         
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
