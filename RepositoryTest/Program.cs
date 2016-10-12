@@ -15,6 +15,7 @@ namespace RepositoryTest
         static void Main()
         {
             int i = 6;
+            Console.WriteLine();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
